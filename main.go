@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"gist.github.com/t0yv0/ef2cffcc5c3308563be40a0885d0a66c/a"
-	"gist.github.com/t0yv0/ef2cffcc5c3308563be40a0885d0a66c/b"
+	"github.com/t0yv0/go-embedded-struct-bloat-example/a"
+	"github.com/t0yv0/go-embedded-struct-bloat-example/b"
 )
 
 func main() {

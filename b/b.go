@@ -3,7 +3,7 @@ package b
 import (
 	"fmt"
 
-	"gist.github.com/t0yv0/ef2cffcc5c3308563be40a0885d0a66c/a"
+	"github.com/t0yv0/go-embedded-struct-bloat-example/a"
 )
 
 type B struct {

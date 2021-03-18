@@ -29,9 +29,9 @@ and `b.go` defining a struct `B` that embeds `A`.
 ```
 $ ./repro.sh
 
-         U gist.github.com/t0yv0/ef2cffcc5c3308563be40a0885d0a66c/a.A.A1
-    33ab T gist.github.com/t0yv0/ef2cffcc5c3308563be40a0885d0a66c/b.(*B).A1
-    3463 T gist.github.com/t0yv0/ef2cffcc5c3308563be40a0885d0a66c/b.B.A1
+         U github.com/t0yv0/go-embedded-struct-bloat-example/a.A.A1
+    332e T github.com/t0yv0/go-embedded-struct-bloat-example/b.(*B).A1
+    33e6 T github.com/t0yv0/go-embedded-struct-bloat-example/b.B.A1
 ```
 
 
